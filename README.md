@@ -1,20 +1,25 @@
-# Coffee Analysis Project
+# Coffee-Sales-Dashboard
 
-## Overview
-This project analyzes coffee-related data using Microsoft Excel. The dataset, contained in `coffee.analysis.xlsx`, includes various metrics related to coffee production, consumption, and market trends.
+## About this project
+This dashboard presents insights to the regional manager of a coffee chain with 3 different stores. The goal is to optimize the operations based on the data collected from these stores.
 
-## Installation
-To work with this project, ensure you have:
-- Microsoft Excel or a compatible spreadsheet application installed on your computer.
+## What the project does
+The dashboard highlights key metrics such as revenue growth, busiest days and hours, top-selling categories and products, and underperforming products.
 
-## Data Description
-The `coffee.analysis.xlsx` file includes the following sheets (customize based on actual content):
-- **Production Data**: Contains statistics on coffee production by region and year.
-- **Consumption Trends**: Details coffee consumption patterns across different demographics.
-- **Market Analysis**: Provides insights into pricing trends and market forecasts.
+## Why the project is useful
+By analyzing the data, the dashboard helps identify trends and patterns which can be used to make informed decisions to improve store operations, increase sales, and reduce costs.
 
-## Analysis Methods
-This project employs various analysis methods within Excel, including:
-- **Pivot Tables**: For summarizing data and generating reports.
-- **Charts and Graphs**: To visualize trends and comparisons.
-- **Statistical Functions**: Such as averages, medians, and growth rates to derive insights from the data.
+## Insights
+- **Revenue**: Continuously growing.
+- **Busiest Days**: Mondays, Thursdays, and Fridays.
+- **Busiest Hours**: Mornings.
+- **Top Category**: Coffee.
+- **Top Product**: Barista Espresso.
+
+## Data Story
+I have noticed that the bottom products for all the stores include some flavors and other products like coffee beans. Additionally, the merchandise clothing for Astoria is way less compared to other stores. Providing discount offers at this store might increase sales or it could be considered to remove such products from display and keep them available on order only to reduce operational costs.
+
+## How users can get started with the project
+1. Clone the repository.
+2. Open the Excel file in Microsoft Excel.
+3. Explore the dashboard and interact with the different charts and tables.
