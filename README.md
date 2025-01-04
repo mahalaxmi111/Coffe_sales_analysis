@@ -1,3 +1,8 @@
+
+## Screenshots
+
+![App Screenshot](![DASHBOARD](https://github.com/user-attachments/assets/10c332c8-07bc-41da-ad65-16f0e8dab5f0)
+)
 # Coffee-Sales-Dashboard
 
 ## About this project
@@ -23,3 +28,6 @@ I have noticed that the bottom products for all the stores include some flavors 
 1. Clone the repository.
 2. Open the Excel file in Microsoft Excel.
 3. Explore the dashboard and interact with the different charts and tables.
+
+## Dataset used
+-<a href="https://github.com/mahalaxmi111/Coffe_sales_analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Coffee shop sales data</a>
