@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot](![DASHBOARD](https://github.com/user-attachments/assets/10c332c8-07bc-41da-ad65-16f0e8dab5f0)
+![App Screenshot]([![DASHBOARD](https://github.com/user-attachments/assets/10c332c8-07bc-41da-ad65-16f0e8dab5f0)](https://github.com/mahalaxmi111/Coffe_sales_analysis/blob/main/DASHBOARD.png)
 )
 # Coffee-Sales-Dashboard
 
