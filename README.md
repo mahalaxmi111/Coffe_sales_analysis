@@ -1,4 +1,5 @@
-<img src ="https://github.com/mahalaxmi111/Coffe_sales_analysis/blob/main/DASHBOARD.png">
+
+![DASHBOARD](https://github.com/user-attachments/assets/afcca8cb-034c-44cf-b0a1-ef62c6175550)
 
 # Coffee-Sales-Dashboard
 
